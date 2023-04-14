@@ -1,0 +1,15 @@
+C:\Users\Mauricio\Desktop\CodeRDIversity\CSharp\RDIMyBookLibrary\bin\Debug\net6.0\RDIMyBookLibrary.exe
+C:\Users\Mauricio\Desktop\CodeRDIversity\CSharp\RDIMyBookLibrary\bin\Debug\net6.0\RDIMyBookLibrary.deps.json
+C:\Users\Mauricio\Desktop\CodeRDIversity\CSharp\RDIMyBookLibrary\bin\Debug\net6.0\RDIMyBookLibrary.runtimeconfig.json
+C:\Users\Mauricio\Desktop\CodeRDIversity\CSharp\RDIMyBookLibrary\bin\Debug\net6.0\RDIMyBookLibrary.dll
+C:\Users\Mauricio\Desktop\CodeRDIversity\CSharp\RDIMyBookLibrary\bin\Debug\net6.0\RDIMyBookLibrary.pdb
+C:\Users\Mauricio\Desktop\CodeRDIversity\CSharp\RDIMyBookLibrary\obj\Debug\net6.0\RDIMyBookLibrary.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Desktop\CodeRDIversity\CSharp\RDIMyBookLibrary\obj\Debug\net6.0\RDIMyBookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\Desktop\CodeRDIversity\CSharp\RDIMyBookLibrary\obj\Debug\net6.0\RDIMyBookLibrary.AssemblyInfoInputs.cache
+C:\Users\Mauricio\Desktop\CodeRDIversity\CSharp\RDIMyBookLibrary\obj\Debug\net6.0\RDIMyBookLibrary.AssemblyInfo.cs
+C:\Users\Mauricio\Desktop\CodeRDIversity\CSharp\RDIMyBookLibrary\obj\Debug\net6.0\RDIMyBookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Desktop\CodeRDIversity\CSharp\RDIMyBookLibrary\obj\Debug\net6.0\RDIMyBookLibrary.dll
+C:\Users\Mauricio\Desktop\CodeRDIversity\CSharp\RDIMyBookLibrary\obj\Debug\net6.0\refint\RDIMyBookLibrary.dll
+C:\Users\Mauricio\Desktop\CodeRDIversity\CSharp\RDIMyBookLibrary\obj\Debug\net6.0\RDIMyBookLibrary.pdb
+C:\Users\Mauricio\Desktop\CodeRDIversity\CSharp\RDIMyBookLibrary\obj\Debug\net6.0\RDIMyBookLibrary.genruntimeconfig.cache
+C:\Users\Mauricio\Desktop\CodeRDIversity\CSharp\RDIMyBookLibrary\obj\Debug\net6.0\ref\RDIMyBookLibrary.dll
