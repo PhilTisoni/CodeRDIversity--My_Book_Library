@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/21223609/232902814-86bd2681-b621-476f-b47a-c5b8ce995b67.mp4
+
 # CodeRDIversity - My Book Library
 
 <img style = "width: 200px" src = "https://prosper.tech/wp-content/uploads/2023/02/stories_06-3-2-783x1024.png" alt = "CodeRDIversity"> <img style = "width: 150px" src = "https://media.licdn.com/dms/image/C4D0BAQESTAYGKhOdSQ/company-logo_200_200/0/1659620356007?e=2147483647&v=beta&t=9kHLR--f0dlKI6o6clQuGNllshlTOb96Mi51iU5idlg" alt = "Prosper Tech Talents"> <img style = "width: 200px" src = "https://www.rdisoftware.com/img/logo.png" alt = "RDI Softwares"> 
@@ -104,14 +108,11 @@ A partir de um **switch**, apenas as teclas para **baixo**, para **cima** e **En
                 }
 ```
 
- O menu também conta com o efeito visual de **mudança de cor** quando as teclas de navegação para baixo ou para cima são pressionadas, reforçando a escolha do usuário através de um emoji ao lado esquerdo.
- 
-[VídeoDemonstrativo](./assets/video_demonstrativo.mp4G)
+ O menu também conta com o efeito visual de **mudança de cor** quando as teclas de navegação para baixo ou para cima são pressionadas, reforçando a escolha do usuário através de um emoji ao lado esquerdo. Após escolher uma das funções e retornar ao menu principal, o item continua na última posição selecionada, facilitando para o usuário a localização dos itens do menu principal. Você pode visualizar uma demonstração do projeto clicando [aqui.](https://user-images.githubusercontent.com/21223609/232903080-2aee4a6c-004b-4abe-9599-3f047868f77a.mp4)
 
 
-Após escolher uma das funções e retornar ao menu principal, o item continua na última posição selecionada, facilitando para o usuário a localização dos itens do menu principal.
 
-INSERIR VÍDEO
+
 
 # Funcionalidades
 
