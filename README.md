@@ -163,8 +163,8 @@ Para o desenvolvimento do projeto, foi proposto um roteiro de estudos com os pas
 
 # Próximos Passos
 Planeja-se melhorar a classe de Elementos visuais:
-- [] Aplicando conceitos SOLID para evitar a repetição de código
-- [] Melhorar método MultiplasCores()
+- [ ] Aplicando conceitos SOLID para evitar a repetição de código
+- [ ] Melhorar método MultiplasCores()
 
 # Autores
 - [Barbara Nogueira Passaro](linkedin.com/in/bárbara-nogueira-passaro-b438a9146 "Barbara Linkedin")
