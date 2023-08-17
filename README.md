@@ -27,7 +27,7 @@ Desenvolvido em Março de 2023 durante o **CodeRDIversity** organizado pela **Pr
 ```bash
 git clone https://github.com/PhilTisoni/CodeRDIversity.MyBookLibrary.git
 ```
-Após clonar o projeto, adicione o código em seu Arduino conectado aos componentes eletrônicos.
+O projeto deverá ser clonado para a sua pasta. Abra a solução em seu compilador de preferência.
 
 # Índice
 
