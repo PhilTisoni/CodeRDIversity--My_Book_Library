@@ -12,20 +12,22 @@ Projeto console de sistema de empréstimo de livros de uma biblioteca.
 Desenvolvido em Março de 2023 durante o **CodeRDIversity** organizado pela **Prosper Tech Talents** em parceria com a **RDI Softwares** para o **treinamento** de **PCD's** na **linguagem C#**, o **My Book Library** tem como objetivo a exibição de um menu que executa funções de cadastro, empréstimo e devolução de livros. O projeto foi proposto como atividade prática do curso, sendo orientado por **Rodrigo Grigoleto**.
 
 ## Tecnologias Utilizadas
-- Linguagem C#
-- .Net 6.0
-- Visual Stuio 2022 Community
-- Google Drive
+- [Linguagem C#](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
+- [.Net 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+- [Visual Stuio 2022 Community](https://visualstudio.microsoft.com/pt-br/vs/)
+- [Google Drive](https://www.google.com/drive/)
 
-## Como executar o projeto
+# Como Clonar o Projeto
+
+- Instale o [Git](https://git-scm.com/downloads) no seu computador. Durante a instalação, certifique-se se a opção **Git Bash** está adicionada.
+- Após a instalação, crie uma pasta em sua área de trabalho
+- Dentro da pasta, clique com o botão direito e selecione **Git Bash Here**
+- Após abrir o terminal, copie o seguinte comando:
+   
 ```bash
-# clonar repositório
-git clone https://github.com/PhilTisoni/CodeRDIversity--My_Book_Library.git
-
-# executar o projeto
-./CodeRDIversity--My_Book_Library spring-boot:run
+git clone https://github.com/PhilTisoni/CodeRDIversity.MyBookLibrary.git
 ```
-Após clonar o projeto, abra o executável na pasta bin.
+Após clonar o projeto, adicione o código em seu Arduino conectado aos componentes eletrônicos.
 
 # Índice
 
@@ -161,8 +163,8 @@ Para o desenvolvimento do projeto, foi proposto um roteiro de estudos com os pas
 
 # Próximos Passos
 Planeja-se melhorar a classe de Elementos visuais:
-- Aplicando conceitos SOLID para evitar a repetição de código
-- Melhorar método MultiplasCores()
+- [] Aplicando conceitos SOLID para evitar a repetição de código
+- [] Melhorar método MultiplasCores()
 
 # Autores
 - [Barbara Nogueira Passaro](linkedin.com/in/bárbara-nogueira-passaro-b438a9146 "Barbara Linkedin")
